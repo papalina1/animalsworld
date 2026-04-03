@@ -1,11 +1,15 @@
 ---
-title: "8 Things Dogs Do Before They Pass Away"
-description: "Knowing the signs that a dog is nearing the end of life helps you be present and compassionate during one of the hardest chapters any pet owner faces."
-category: "Dog Health"
-excerpt: "Recognizing the signs allows you to give your dog comfort and dignity during the most tender chapter of their life."
-emoji: "🕯️"
-date: 2025-01-15
+excerpt: Recognizing the signs allows you to give your dog comfort and dignity
+  during the most tender chapter of their life.
+emoji: 🕯️
 layout: article-layout.njk
+title: 8 Things Dogs Do Before They Pass Away
+description: Knowing the signs that a dog is nearing the end of life helps you
+  be present and compassionate during one of the hardest chapters any pet owner
+  faces.
+category: Dog Health
+image: /images/uploads/chatgpt-image-apr-3-2026-02_51_16-am.png
+date: 2025-01-15
 ---
 
 This is one of the hardest things to write about, and one of the most important. No dog owner wants to think about losing their companion — but understanding the signs that a dog may be nearing the end of their life is one of the most loving things you can do. It allows you to be present, to remove unnecessary pain, and to ensure your dog's final days are filled with comfort and dignity.
