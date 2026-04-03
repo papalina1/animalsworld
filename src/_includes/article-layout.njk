@@ -1,0 +1,57 @@
+---
+layout: base.njk
+---
+
+<section class="article-hero">
+  <div class="container">
+    <div class="article-category">{{ category }}</div>
+    <h1>{{ title }}</h1>
+    <p class="article-meta">By Animals World &nbsp;|&nbsp; {{ category }} &nbsp;|&nbsp; {{ date | date("MMMM D, YYYY") if date }}</p>
+  </div>
+</section>
+
+<div class="article-body">
+
+  {% if image %}
+    <img src="{{ image }}" alt="{{ title }}" style="width:100%; height:360px; object-fit:cover; border-radius:12px; margin-bottom:2rem;" />
+  {% else %}
+    <div class="article-image-placeholder">
+      {{ emoji or "🐾" }}
+      <span>{{ title }}</span>
+    </div>
+  {% endif %}
+
+  {{ content | safe }}
+
+  <div class="disclaimer-box">
+    <strong>Note:</strong> This article is for informational purposes only and is not a substitute for professional veterinary advice. If your pet is unwell, please consult a licensed veterinarian.
+  </div>
+
+</div>
+
+{% set related = collections.articles | excludeUrl(page.url) | limit(3) %}
+{% if related.length %}
+<section class="related-articles">
+  <div class="container">
+    <h2>You Might Also Like</h2>
+    <div class="grid-3">
+      {% for item in related %}
+      <article class="card">
+        <div class="card-image" style="height:150px; font-size:2.5rem;">
+          {% if item.data.image %}
+            <img src="{{ item.data.image }}" alt="{{ item.data.title }}" style="width:100%; height:100%; object-fit:cover;" />
+          {% else %}
+            {{ item.data.emoji or "🐾" }}
+          {% endif %}
+        </div>
+        <div class="card-body">
+          <div class="card-category">{{ item.data.category }}</div>
+          <h3 class="card-title">{{ item.data.title }}</h3>
+          <a href="{{ item.url }}" class="btn btn-outline">Read More</a>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}

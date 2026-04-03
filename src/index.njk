@@ -1,0 +1,115 @@
+---
+layout: base.njk
+pageTitle: "Animals World — Pet Care Advice for Dog & Cat Owners"
+description: "Simple, trusted advice for dog and cat owners. Understand your pet's behavior, health signs, and emotional needs — written for real pet lovers."
+permalink: /
+---
+
+<section class="hero">
+  <div class="container">
+    <div class="hero-content">
+      <span class="hero-emoji">🐶🐱</span>
+      <h1>Helping You Understand and Care for Your Pets</h1>
+      <p class="hero-sub">Simple, trusted advice for dog and cat owners — because your pet deserves the best of you.</p>
+      <div class="hero-actions">
+        <a href="/blog/" class="btn btn-primary">Read Our Articles</a>
+        <a href="/about/" class="btn btn-outline">About Us</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FEATURED ARTICLES -->
+<section class="section">
+  <div class="container">
+    <div class="section-header">
+      <h2>Featured Articles</h2>
+      <p>Our most-read guides, written to help you truly understand your dog or cat.</p>
+      <div class="section-divider"></div>
+    </div>
+    <div class="grid-3">
+      {% set featured = collections.articles | limit(3) %}
+      {% for article in featured %}
+      <article class="card">
+        <div class="card-image">
+          {% if article.data.image %}
+            <img src="{{ article.data.image }}" alt="{{ article.data.title }}" style="width:100%; height:100%; object-fit:cover;" />
+          {% else %}
+            {{ article.data.emoji or "🐾" }}
+          {% endif %}
+        </div>
+        <div class="card-body">
+          <div class="card-category">{{ article.data.category }}</div>
+          <h3 class="card-title">{{ article.data.title }}</h3>
+          <p class="card-excerpt">{{ article.data.excerpt }}</p>
+          <a href="{{ article.url }}" class="btn btn-primary">Read More</a>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- TRUST BAND -->
+<section class="trust-band">
+  <div class="container">
+    <h2>Why Pet Owners Trust Us</h2>
+    <p>We write for real people who love their animals. No jargon, no fear-mongering — just clear, compassionate information.</p>
+    <div class="trust-items">
+      <div class="trust-item">
+        <span class="icon">📖</span>
+        <strong>Research-Backed</strong>
+        <span>All content is carefully reviewed</span>
+      </div>
+      <div class="trust-item">
+        <span class="icon">💬</span>
+        <strong>Plain Language</strong>
+        <span>Easy to read, easy to act on</span>
+      </div>
+      <div class="trust-item">
+        <span class="icon">❤️</span>
+        <strong>Written With Care</strong>
+        <span>By people who love pets too</span>
+      </div>
+      <div class="trust-item">
+        <span class="icon">🩺</span>
+        <strong>Vet-Aware</strong>
+        <span>We always recommend professional care</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- LATEST ARTICLES -->
+<section class="section section-alt">
+  <div class="container">
+    <div class="section-header">
+      <h2>Latest Articles</h2>
+      <p>Fresh guides to help you understand and support your pet every day.</p>
+      <div class="section-divider"></div>
+    </div>
+    <div class="grid-4">
+      {% set latest = collections.articles | limit(8) %}
+      {% for article in latest %}
+      <article class="card">
+        <div class="card-image" style="height:160px; font-size:2.8rem;">
+          {% if article.data.image %}
+            <img src="{{ article.data.image }}" alt="{{ article.data.title }}" style="width:100%; height:100%; object-fit:cover;" />
+          {% else %}
+            {{ article.data.emoji or "🐾" }}
+          {% endif %}
+        </div>
+        <div class="card-body">
+          <div class="card-category">{{ article.data.category }}</div>
+          <h3 class="card-title">{{ article.data.title }}</h3>
+          <p class="card-excerpt">{{ article.data.excerpt }}</p>
+          <a href="{{ article.url }}" class="btn btn-outline">Read More</a>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+    <div class="text-center mt-3">
+      <a href="/blog/" class="btn btn-primary">View All Articles</a>
+    </div>
+  </div>
+</section>

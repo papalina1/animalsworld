@@ -1,0 +1,37 @@
+---
+layout: base.njk
+pageTitle: "Blog — Pet Care Articles"
+description: "Browse all our pet care articles covering dog behavior, cat behavior, health symptoms, and product recommendations for loving pet owners."
+permalink: /blog/
+---
+
+<section class="page-hero">
+  <div class="container">
+    <h1>Pet Care Blog</h1>
+    <p>Practical articles to help you understand, support, and connect with your dog or cat.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="grid-3">
+      {% for article in collections.articles %}
+      <article class="card">
+        <div class="card-image">
+          {% if article.data.image %}
+            <img src="{{ article.data.image }}" alt="{{ article.data.title }}" style="width:100%; height:100%; object-fit:cover;" />
+          {% else %}
+            {{ article.data.emoji or "🐾" }}
+          {% endif %}
+        </div>
+        <div class="card-body">
+          <div class="card-category">{{ article.data.category }}</div>
+          <h2 class="card-title">{{ article.data.title }}</h2>
+          <p class="card-excerpt">{{ article.data.excerpt }}</p>
+          <a href="{{ article.url }}" class="btn btn-primary">Read More</a>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>

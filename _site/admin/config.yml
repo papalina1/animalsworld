@@ -1,0 +1,63 @@
+backend:
+  name: git-gateway
+  branch: main
+
+locale: en
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "articles"
+    label: "Articles"
+    folder: "src/articles"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        hint: "The article headline"
+
+      - label: "Meta Description"
+        name: "description"
+        widget: "text"
+        hint: "Short summary shown in Google search results (150–160 characters)"
+
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - "Dog Behavior"
+          - "Dog Health"
+          - "Cat Behavior"
+          - "Cat Health"
+          - "Senior Dogs"
+          - "Dog Products"
+          - "Cat Products"
+
+      - label: "Short Excerpt"
+        name: "excerpt"
+        widget: "text"
+        hint: "Shown on the blog listing cards (1–2 sentences)"
+
+      - label: "Emoji Icon"
+        name: "emoji"
+        widget: "string"
+        default: "🐾"
+        hint: "Emoji shown if no image is uploaded (e.g. 🐕 🐈 🦴)"
+
+      - label: "Featured Image"
+        name: "image"
+        widget: "image"
+        required: false
+        hint: "Upload a photo for this article (optional)"
+
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
+
+      - label: "Article Content"
+        name: "body"
+        widget: "markdown"
+        hint: "Write your full article here. Use the toolbar for headings, bold, bullet points etc."
