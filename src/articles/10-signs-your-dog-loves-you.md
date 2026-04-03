@@ -1,11 +1,14 @@
 ---
-title: "10 Signs Your Dog Loves You More Than Anyone Else"
-description: "Wondering if your dog truly loves you? These 10 heartwarming signs reveal the depth of your dog's bond — and they may surprise you."
-category: "Dog Behavior"
-excerpt: "These heartwarming behaviors reveal the depth of your dog's bond with you — from morning greetings to the way they sleep."
-emoji: "🐕"
-date: 2025-01-20
+excerpt: These heartwarming behaviors reveal the depth of your dog's bond with
+  you — from morning greetings to the way they sleep.
+emoji: 🐕
 layout: article-layout.njk
+title: 10 Signs Your Dog Loves You More Than Anyone Else
+description: Wondering if your dog truly loves you? These 10 heartwarming signs
+  reveal the depth of your dog's bond — and they may surprise you.
+category: Dog Behavior
+image: /images/uploads/chatgpt-image-apr-3-2026-02_43_23-am.png
+date: 2025-01-20
 ---
 
 There's a moment that most dog owners know — your dog looks up at you with those soft, warm eyes, tail going, whole body leaning in your direction, and you think: does this animal actually love me? The answer, backed by both science and centuries of shared history, is a resounding yes. Dogs don't say "I love you" in words. They say it in behavior — in small daily gestures that are easy to overlook if you don't know what you're looking for.
