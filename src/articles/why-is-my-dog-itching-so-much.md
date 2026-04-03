@@ -1,11 +1,15 @@
 ---
-title: "Why Is My Dog Itching So Much?"
-description: "Constant scratching, licking, and biting at skin — excessive itching in dogs has several causes. Here's how to identify the problem and find relief."
-category: "Dog Health"
-excerpt: "Allergies, fleas, dry skin, or food sensitivities — the cause matters. Here's how to figure out what's behind the scratching."
-emoji: "🤧"
-date: 2025-01-12
+excerpt: Allergies, fleas, dry skin, or food sensitivities — the cause matters.
+  Here's how to figure out what's behind the scratching.
+emoji: 🤧
 layout: article-layout.njk
+title: Why Is My Dog Itching So Much?
+description: Constant scratching, licking, and biting at skin — excessive
+  itching in dogs has several causes. Here's how to identify the problem and
+  find relief.
+category: Dog Health
+image: /images/uploads/chatgpt-image-apr-3-2026-03_39_21-am.png
+date: 2025-01-12
 ---
 
 Watching your dog scratch themselves relentlessly is uncomfortable to witness — and genuinely uncomfortable for them to experience. Occasional itching is normal for any dog, but when the scratching, biting, and rubbing becomes constant, it's telling you something. Understanding the most common causes can help you get to the bottom of it faster and find real relief for your dog.
