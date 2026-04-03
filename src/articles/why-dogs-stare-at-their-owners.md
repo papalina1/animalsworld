@@ -1,11 +1,15 @@
 ---
-title: "Why Dogs Stare at Their Owners"
-description: "Your dog's long, steady gaze has a real meaning — and it's more loving than you might think. Learn what dogs are communicating when they stare at you."
-category: "Dog Behavior"
-excerpt: "That deep, unblinking gaze isn't as mysterious as it seems. Your dog is trying to say something important."
-emoji: "👀"
-date: 2025-01-13
+excerpt: That deep, unblinking gaze isn't as mysterious as it seems. Your dog is
+  trying to say something important.
+emoji: 👀
 layout: article-layout.njk
+title: Why Dogs Stare at Their Owners
+description: Your dog's long, steady gaze has a real meaning — and it's more
+  loving than you might think. Learn what dogs are communicating when they stare
+  at you.
+category: Dog Behavior
+image: /images/uploads/chatgpt-image-apr-3-2026-03_37_37-am.png
+date: 2025-01-13
 ---
 
 You're reading, cooking, watching TV — and you feel it. That steady, unblinking gaze from your dog. You look up, make eye contact, and they just... keep staring. It can feel almost unnerving until you understand what's behind it. Because the reason dogs stare at their owners is, in most cases, one of the most beautiful things in the human-animal relationship.
