@@ -1,11 +1,14 @@
 ---
-title: "Why Your Cat Isn't Eating"
-description: "A cat that suddenly stops eating is always a concern. Learn the most common reasons cats refuse food and when it's time to call your vet."
-category: "Cat Health"
-excerpt: "Loss of appetite in cats is always worth paying attention to. These are the most common reasons — and what to do about each one."
-emoji: "🍽️"
-date: 2025-01-11
+excerpt: Loss of appetite in cats is always worth paying attention to. These are
+  the most common reasons — and what to do about each one.
+emoji: 🍽️
 layout: article-layout.njk
+title: Why Your Cat Isn't Eating
+description: A cat that suddenly stops eating is always a concern. Learn the
+  most common reasons cats refuse food and when it's time to call your vet.
+category: Cat Health
+image: /images/uploads/chatgpt-image-apr-3-2026-03_47_15-am.png
+date: 2025-01-11
 ---
 
 Few things are more worrying to a cat owner than watching their pet turn away from their food bowl. Cats are not known for being dramatic about minor discomforts, which means that when a cat stops eating, it usually means something. Loss of appetite in cats can have many causes — some simple and easily resolved, others more serious.
