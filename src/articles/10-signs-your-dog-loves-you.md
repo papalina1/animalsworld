@@ -7,7 +7,7 @@ title: 10 Signs Your Dog Loves You More Than Anyone Else
 description: Wondering if your dog truly loves you? These 10 heartwarming signs
   reveal the depth of your dog's bond — and they may surprise you.
 category: Dog Behavior
-image: https://chatgpt.com/backend-api/estuary/content?id=file_00000000b8f4720ab42d1809435342ea&ts=493104&p=fs&cid=1&sig=a0bdd4e5654f61fbf46bd06749e80a2afa1c6f8aaea196466892fbc8d18c7dc5&v=0
+image: /images/uploads/chatgpt-image-apr-3-2026-02_43_23-am.png
 date: 2025-01-20
 ---
 
