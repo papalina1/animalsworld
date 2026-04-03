@@ -1,11 +1,15 @@
 ---
-title: "Best Food for Sensitive Dogs"
-description: "If your dog has a sensitive stomach, the right food makes a real difference. Here's what ingredients to look for, what to avoid, and how to make the switch."
-category: "Dog Products"
-excerpt: "If your dog has a sensitive stomach, the right food changes everything. Here's what to look for and what to avoid."
-emoji: "🥣"
-date: 2025-01-01
+excerpt: If your dog has a sensitive stomach, the right food changes everything.
+  Here's what to look for and what to avoid.
+emoji: 🥣
 layout: article-layout.njk
+title: Best Food for Sensitive Dogs
+description: If your dog has a sensitive stomach, the right food makes a real
+  difference. Here's what ingredients to look for, what to avoid, and how to
+  make the switch.
+category: Dog Products
+image: /images/uploads/chatgpt-image-apr-3-2026-03_00_26-am.png
+date: 2025-01-01
 ---
 
 A dog with a sensitive stomach is a dog whose digestive system reacts to things other dogs handle without issue — certain proteins, common food additives, high-fat content, or specific grains. The signs are familiar to many owners: soft stools, frequent vomiting, excessive gas, or a dog who simply seems uncomfortable after eating. The good news is that the right food very often resolves all of these issues.

@@ -1,11 +1,16 @@
 ---
-title: "Do Cats Really Love Their Owners?"
-description: "Cats have a reputation for being independent, but science tells a different story. Here's what research says about the real bond between cats and their owners."
-category: "Cat Behavior"
-excerpt: "Cats have a reputation for being aloof — but science and careful observation tell a very different story about what's really in that feline heart."
-emoji: "🐈"
-date: 2025-01-18
+excerpt: Cats have a reputation for being aloof — but science and careful
+  observation tell a very different story about what's really in that feline
+  heart.
+emoji: 🐈
 layout: article-layout.njk
+title: Do Cats Really Love Their Owners?
+description: Cats have a reputation for being independent, but science tells a
+  different story. Here's what research says about the real bond between cats
+  and their owners.
+category: Cat Behavior
+image: /images/uploads/chatgpt-image-apr-3-2026-03_12_16-am.png
+date: 2025-01-18
 ---
 
 Cats have a reputation. They're independent, mysterious, and — according to a popular narrative — basically indifferent to the humans they live with. But anyone who has lived closely with a cat knows that something deeper is happening. The question is: what exactly?

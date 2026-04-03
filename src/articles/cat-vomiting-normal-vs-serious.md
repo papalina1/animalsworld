@@ -1,11 +1,15 @@
 ---
-title: "Cat Vomiting: Normal vs. Serious"
-description: "Cats vomit occasionally — but how do you know when it's normal hairballs versus something that needs a vet? Here's how to tell the difference."
-category: "Cat Health"
-excerpt: "Hairballs happen. But how do you know when your cat's vomiting crosses the line from routine to something that needs attention?"
-emoji: "🤮"
-date: 2025-01-07
+excerpt: Hairballs happen. But how do you know when your cat's vomiting crosses
+  the line from routine to something that needs attention?
+emoji: 🤮
 layout: article-layout.njk
+title: "Cat Vomiting: Normal vs. Serious"
+description: Cats vomit occasionally — but how do you know when it's normal
+  hairballs versus something that needs a vet? Here's how to tell the
+  difference.
+category: Cat Health
+image: /images/uploads/chatgpt-image-apr-3-2026-03_08_25-am.png
+date: 2025-01-07
 ---
 
 Every cat owner knows the sound — that distinctive retching noise, usually at 3 AM on your carpet — and most of us have become somewhat accustomed to cleaning it up. Cats do vomit more than many other pets, and a lot of that is genuinely normal. But there's an important line between "just a hairball" and something that warrants a call to your vet.
