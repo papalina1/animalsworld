@@ -1,11 +1,15 @@
 ---
-title: "Why Senior Dogs Become More Attached"
-description: "Many owners notice their older dog becoming more clingy and attached. Here's why this happens and how to support an aging dog with the care they need."
-category: "Senior Dogs"
-excerpt: "Aging brings changes — including a deeper need for closeness. Understanding why helps you respond with the love they need."
-emoji: "🐩"
-date: 2025-01-16
+excerpt: Aging brings changes — including a deeper need for closeness.
+  Understanding why helps you respond with the love they need.
+emoji: 🐩
 layout: article-layout.njk
+title: Why Senior Dogs Become More Attached
+description: Many owners notice their older dog becoming more clingy and
+  attached. Here's why this happens and how to support an aging dog with the
+  care they need.
+category: Senior Dogs
+image: /images/uploads/chatgpt-image-apr-3-2026-03_43_34-am.png
+date: 2025-01-16
 ---
 
 If you've noticed your aging dog becoming more attached to you — following you more closely, wanting to be held, seeking your presence in ways they didn't when they were younger — you're not imagining it. This is one of the most consistent and quietly touching patterns in the lives of older dogs.
