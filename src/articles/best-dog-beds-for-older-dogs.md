@@ -1,11 +1,15 @@
 ---
-title: "Best Dog Beds for Older Dogs"
-description: "Senior dogs need more than a soft spot on the floor. Here's what to look for in a dog bed that genuinely supports aging joints and helps your older dog sleep comfortably."
-category: "Dog Products"
-excerpt: "Senior dogs need proper support for their joints. We've rounded up what to look for in the most comfortable, supportive beds."
-emoji: "🛏️"
-date: 2025-01-04
+excerpt: Senior dogs need proper support for their joints. We've rounded up what
+  to look for in the most comfortable, supportive beds.
+emoji: 🛏️
 layout: article-layout.njk
+title: Best Dog Beds for Older Dogs
+description: Senior dogs need more than a soft spot on the floor. Here's what to
+  look for in a dog bed that genuinely supports aging joints and helps your
+  older dog sleep comfortably.
+category: Dog Products
+image: /images/uploads/chatgpt-image-apr-3-2026-02_59_17-am.png
+date: 2025-01-04
 ---
 
 If there's one change you can make that will immediately improve your senior dog's quality of life, it's giving them the right bed. As dogs age, their joints deteriorate, their muscles thin, and the hard floor that they tolerated when young becomes genuinely painful. A good dog bed for an older dog isn't a luxury — it's a health tool.
