@@ -1,11 +1,15 @@
 ---
-title: "How to Stop Excessive Barking"
-description: "Excessive barking is exhausting — for you and your dog. These consistent, kind training strategies address the cause and actually reduce the barking."
-category: "Dog Behavior"
-excerpt: "Barking is communication — but too much of it wears everyone down. These consistent strategies actually work."
-emoji: "📢"
-date: 2025-01-05
+excerpt: Barking is communication — but too much of it wears everyone down.
+  These consistent strategies actually work.
+emoji: 📢
 layout: article-layout.njk
+title: How to Stop Excessive Barking
+description: Excessive barking is exhausting — for you and your dog. These
+  consistent, kind training strategies address the cause and actually reduce the
+  barking.
+category: Dog Behavior
+image: /images/uploads/chatgpt-image-apr-3-2026-03_29_34-am.png
+date: 2025-01-05
 ---
 
 Barking is how dogs communicate — it's normal, it's healthy, and trying to eliminate it entirely is both impossible and unkind. But excessive barking, the kind that disrupts your household and your neighbors, is usually a sign of something that can be addressed. The key is understanding what your dog is trying to say before deciding how to respond.
