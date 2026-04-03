@@ -1,11 +1,15 @@
 ---
-title: "Best Calming Treats for Dogs"
-description: "Calming treats can genuinely help anxious dogs — but what ingredients actually work? Here's what to look for and what dog owners and vets recommend."
-category: "Dog Products"
-excerpt: "Not all calming treats are created equal. Here's what to look for in the ingredients — and which ones pet owners swear by."
-emoji: "🍖"
-date: 2025-01-03
+excerpt: Not all calming treats are created equal. Here's what to look for in
+  the ingredients — and which ones pet owners swear by.
+emoji: 🍖
 layout: article-layout.njk
+title: Best Calming Treats for Dogs
+description: Calming treats can genuinely help anxious dogs — but what
+  ingredients actually work? Here's what to look for and what dog owners and
+  vets recommend.
+category: Dog Products
+image: /images/uploads/chatgpt-image-apr-3-2026-02_57_28-am.png
+date: 2025-01-03
 ---
 
 Calming treats for dogs are one of the most popular pet product categories — and also one of the most inconsistent. Some contain genuine evidence-based ingredients; others are little more than flavored treats with minimal active components. Knowing what to look for makes the difference between a product that helps and one that just empties your wallet.
