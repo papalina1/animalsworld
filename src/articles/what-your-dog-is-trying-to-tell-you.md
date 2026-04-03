@@ -1,11 +1,14 @@
 ---
-title: "What Your Dog Is Trying to Tell You"
-description: "Your dog is communicating with you all day long — through their tail, ears, posture, and eyes. Here's how to understand what they're saying."
-category: "Dog Behavior"
-excerpt: "Dogs speak volumes through body language. Once you learn to read the signals, your relationship will never be the same."
-emoji: "💬"
-date: 2025-01-17
+excerpt: Dogs speak volumes through body language. Once you learn to read the
+  signals, your relationship will never be the same.
+emoji: 💬
 layout: article-layout.njk
+title: What Your Dog Is Trying to Tell You
+description: Your dog is communicating with you all day long — through their
+  tail, ears, posture, and eyes. Here's how to understand what they're saying.
+category: Dog Behavior
+image: /images/uploads/chatgpt-image-apr-3-2026-03_35_42-am.png
+date: 2025-01-17
 ---
 
 Dogs are constantly communicating. Every wag, every ear position, every shift in posture — it all means something. The challenge is that they're speaking a language built on body signals that most of us were never taught to read. Once you start learning it, your relationship with your dog changes. You begin to hear what they've been saying all along.
