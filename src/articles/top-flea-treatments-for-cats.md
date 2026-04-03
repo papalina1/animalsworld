@@ -1,11 +1,15 @@
 ---
-title: "Top Flea Treatments for Cats"
-description: "Fleas cause real suffering for cats — and they're hard to eliminate once established. Here are the most effective flea treatments available for cats."
-category: "Cat Products"
-excerpt: "Fleas are miserable for cats — and hard to get rid of once established. These are the most effective treatments available."
-emoji: "🐛"
-date: 2025-01-02
+excerpt: Fleas are miserable for cats — and hard to get rid of once established.
+  These are the most effective treatments available.
+emoji: 🐛
 layout: article-layout.njk
+title: Top Flea Treatments for Cats
+description: Fleas cause real suffering for cats — and they're hard to eliminate
+  once established. Here are the most effective flea treatments available for
+  cats.
+category: Cat Products
+image: /images/uploads/chatgpt-image-apr-3-2026-03_08_25-am.png
+date: 2025-01-02
 ---
 
 Fleas are more than an annoyance. For cats, a flea infestation causes intense discomfort, can trigger serious allergic reactions, transmit parasites like tapeworms, and in severe cases lead to dangerous anemia. And once fleas establish themselves in your home, eliminating them takes real effort — because 95% of the flea population lives in the environment (carpets, bedding, cracks in flooring), not on your cat.

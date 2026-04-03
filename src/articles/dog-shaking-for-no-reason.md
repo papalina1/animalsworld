@@ -1,11 +1,14 @@
 ---
-title: "Dog Shaking for No Reason"
-description: "Is your dog trembling and you can't figure out why? These are the most common reasons dogs shake — and when it's time to call the vet."
-category: "Dog Health"
-excerpt: "Trembling that seems to come out of nowhere can mean many things. Learn when to wait it out — and when to call the vet."
-emoji: "😰"
-date: 2025-01-10
+excerpt: Trembling that seems to come out of nowhere can mean many things. Learn
+  when to wait it out — and when to call the vet.
+emoji: 😰
 layout: article-layout.njk
+title: Dog Shaking for No Reason
+description: Is your dog trembling and you can't figure out why? These are the
+  most common reasons dogs shake — and when it's time to call the vet.
+category: Dog Health
+image: /images/uploads/chatgpt-image-apr-3-2026-03_21_41-am.png
+date: 2025-01-10
 ---
 
 You notice your dog trembling — a slight, persistent shake that you can't explain. They haven't been wet, it's not cold, and nothing obvious has happened to frighten them. Trembling in dogs can range from completely benign to a sign of something that needs veterinary attention. Here's how to tell the difference.

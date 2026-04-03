@@ -1,11 +1,15 @@
 ---
-title: "How to Calm an Anxious Dog"
-description: "Dog anxiety is common and treatable. These gentle, practical techniques can bring real, lasting relief to a stressed-out dog — without harsh methods."
-category: "Dog Health"
-excerpt: "Anxiety affects millions of dogs. These gentle, practical techniques can bring real relief to a stressed-out pet."
-emoji: "😟"
-date: 2025-01-09
+excerpt: Anxiety affects millions of dogs. These gentle, practical techniques
+  can bring real relief to a stressed-out pet.
+emoji: 😟
 layout: article-layout.njk
+title: How to Calm an Anxious Dog
+description: Dog anxiety is common and treatable. These gentle, practical
+  techniques can bring real, lasting relief to a stressed-out dog — without
+  harsh methods.
+category: Dog Health
+image: /images/uploads/chatgpt-image-apr-3-2026-03_27_51-am.png
+date: 2025-01-09
 ---
 
 Anxiety in dogs is far more common than most people realize — and far more distressing for the dog than it might appear from the outside. A dog who paces, pants excessively, destroys furniture, or trembles during storms is not being difficult. They're genuinely scared, and they're struggling to cope. The good news is that anxiety in dogs is very manageable with the right approach.
