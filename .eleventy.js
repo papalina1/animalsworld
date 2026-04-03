@@ -5,6 +5,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("admin");
+  eleventyConfig.addPassthroughCopy({ "src/_headers": "_headers" });
+  eleventyConfig.addPassthroughCopy({ "src/robots.njk": "robots.txt" });
 
   // Articles collection — sorted newest first
   eleventyConfig.addCollection("articles", function (collectionApi) {
