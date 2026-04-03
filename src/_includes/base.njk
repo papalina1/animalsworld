@@ -7,10 +7,10 @@
   <meta name="description" content="{{ description }}" />
 
   <!-- Open Graph / Facebook -->
-  <meta property="og:type" content="website" />
+  <meta property="og:type" content="{{ ogType if ogType else 'website' }}" />
   <meta property="og:site_name" content="Happy Pet Advice" />
-  <meta property="og:title" content="{{ pageTitle if pageTitle else title }}" />
-  <meta property="og:description" content="{{ description }}" />
+  <meta property="og:title" content="{{ title if title else pageTitle }} | Happy Pet Advice" />
+  <meta property="og:description" content="{{ description if description else excerpt }}" />
   <meta property="og:url" content="https://happypetadvice.com{{ page.url }}" />
   {% if image %}
   <meta property="og:image" content="https://happypetadvice.com{{ image }}" />
@@ -22,8 +22,8 @@
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="{{ pageTitle if pageTitle else title }}" />
-  <meta name="twitter:description" content="{{ description }}" />
+  <meta name="twitter:title" content="{{ title if title else pageTitle }} | Happy Pet Advice" />
+  <meta name="twitter:description" content="{{ description if description else excerpt }}" />
   {% if image %}
   <meta name="twitter:image" content="https://happypetadvice.com{{ image }}" />
   {% else %}
